@@ -6,4 +6,4 @@
 5) Dataset used for training the model: https://data-flair.training/blogs/download-face-mask-detector-project-source-code/
 
 # System Architecture
-![mask_on](https://github.com/nirajank07/IoT_Mask_on/blob/main/architecture.png)
+![architecture](https://github.com/nirajank07/IoT_Mask_on/blob/main/architecture.png)
